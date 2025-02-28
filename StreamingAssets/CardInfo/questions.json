@@ -190,7 +190,7 @@
         {
             "token": "C.",
             "description": "Call to reschedule your appointment.",
-            "value": 25
+            "value": 24
         },
         {
             "token": "D.",
@@ -240,7 +240,7 @@
             {
                 "token": "C.",
                 "description": "Go out on the street to get around the trash cans.",
-                "value": 33
+                "value": 34
             },
             {
                 "token": "D.",
@@ -260,7 +260,7 @@
             {
                 "token": "B.",
                 "description": "Call a tow truck to move the vehicles out of the way.",
-                "value": 14
+                "value": 13
             },
             {
                 "token": "C.",
@@ -280,7 +280,7 @@
             {
                 "token": "A.",
                 "description": "Go back and cross the street to use the sidewalk on the other side.",
-                "value": 37
+                "value": 38
             },
             {
                 "token": "B.",
@@ -330,7 +330,7 @@
             {
                 "token": "A.",
                 "description": "Attempt to get up the step and hope you don't fall.",
-                "value": 20
+                "value": 19
             },
             {
                 "token": "B.",
@@ -355,7 +355,7 @@
             {
                 "token": "A.",
                 "description": "Get up and carry your wheelchair up the steps.",
-                "value": 20
+                "value": 19
             },
             {
                 "token": "B.",
@@ -380,7 +380,7 @@
             {
                 "token": "A.",
                 "description": "Call an accessible taxi or private transit.",
-                "value": 34
+                "value": 35
             },
             {
                 "token": "B.",
@@ -405,7 +405,7 @@
             {
                 "token": "A.",
                 "description": "Ignore the low battery and continue traveling.",
-                "value": 18
+                "value": 17
             },
             {
                 "token": "B.",
@@ -530,7 +530,7 @@
             {
                 "token": "A.",
                 "description": "Maneuver your wheelchair into the middle of the aisle and just ride to your destination.",
-                "value": 22
+                "value": 23
             },
             {
                 "token": "B.",
@@ -595,7 +595,7 @@
             {
                 "token": "D.",
                 "description": "Find a nice shady spot and take a nap.",
-                "value": 20
+                "value": 19
             }
         ]
     },
@@ -670,7 +670,7 @@
             {
                 "token": "D.",
                 "description": "Continue using the wheelchair and hope that it can keep going.",
-                "value": 30
+                "value": 31
             }
         ]
     },
@@ -705,7 +705,7 @@
             {
                 "token": "A.",
                 "description": "Politely ask if there are any available alternatives or options for scheduling a ride close to your preferred time.",
-                "value": 30
+                "value": 31
             },
             {
                 "token": "B.",
@@ -770,7 +770,7 @@
             {
                 "token": "D.",
                 "description": "Leave your wheelchair at the table and walk to the restroom.",
-                "value": 14
+                "value": 13
             }
         ]
     },
@@ -840,7 +840,7 @@
             {
                 "token": "C.",
                 "description": "Call for a taxi, paratransit, or private transit.",
-                "value": 25
+                "value": 24
             },
             {
                 "token": "D.",
@@ -870,7 +870,7 @@
             {
                 "token": "D.",
                 "description": "Quit your job and find someplace more accessible to work.",
-                "value": 14
+                "value": 13
             }
         ]
     },
@@ -885,7 +885,7 @@
             {
                 "token": "B.",
                 "description": "Find a shop to go in and wait for the snow to slow down.",
-                "value": 15
+                "value": 25
             },
             {
                 "token": "C.",
@@ -915,7 +915,7 @@
             {
                 "token": "C.",
                 "description": "Wait out the rain and call the people you are meeting with and ask to reschedule.",
-                "value": 25
+                "value": 24
             },
             {
                 "token": "D.",
@@ -1105,7 +1105,7 @@
             {
                 "token": "A.",
                 "description": "Persevere and find the best route on your own.",
-                "value": 19
+                "value": 20
             },
             {
                 "token": "B.",
@@ -1130,7 +1130,7 @@
             {
                 "token": "A.",
                 "description": "Contact the city to report the inaccessible sidewalk.",
-                "value": 30
+                "value": 31
             },
             {
                 "token": "B.",
@@ -1185,7 +1185,7 @@
             {
                 "token": "B.",
                 "description": "Take down the license plate number and take a picture to report the violation.",
-                "value": 25
+                "value": 26
             },
             {
                 "token": "C.",
@@ -1280,7 +1280,7 @@
             {
                 "token": "A.",
                 "description": "Drive to your nearest mechanic to see if they could help.",
-                "value": 19
+                "value": 18
             },
             {
                 "token": "B.",
@@ -1305,7 +1305,7 @@
             {
                 "token": "A.",
                 "description": "Call the company that clears your driveway and ask them if they will be there within 30 minutes.",
-                "value": 20
+                "value": 19
             },
             {
                 "token": "B.",
@@ -1390,7 +1390,7 @@
             {
                 "token": "C.",
                 "description": "Call a friend or colleague attending the event to come out and assist you.",
-                "value": 33
+                "value": 34
             },
             {
                 "token": "D.",

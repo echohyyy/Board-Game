@@ -1,96 +1,96 @@
 [
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "There's no available accessible parking space, you will have to find somewhere else to park.",
         "Outcome": "Go back 4 spaces"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "The access aisle of the accessible parking is blocked, you will have to park somewhere else.",
         "Outcome": "Go back 4 spaces"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your fuel tank is on empty, and you need to get gas, but there is no attendant available to help you.",
         "Outcome": "Pay $10"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "It is raining outside, and you do not want to get out if your vehicle and into the pouring rain.",
         "Outcome": "Skip your next turn"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "You really want to get an electric minivan, but the manufacturers can’t modify the van to make it accessible.",
         "Outcome": "Go back 5 spaces"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your car has a flat tire, and you can’t change it by yourself.",
         "Outcome": "Pay $50"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your modified van will be in the shop for a few days.",
         "Outcome": "Skip your next turn"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your vehicle has broken down. You will have to wait for it to be fixed or get out.",
         "Outcome": "Return to the starting point"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Gas prices are rising for your accessible minivan.",
         "Outcome": "Pay $10"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Due to the inclement weather, you cannot drive on the roads.",
         "Outcome": "Skip your next turn"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your shoulders are hurting, you'll have to stop and rest.",
         "Outcome": "Go back 5 spaces"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "You've got pulled over and don't have your driver's license",
         "Outcome": "Pay $10"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your wheelchair was damaged, and you can't use the docking system.",
         "Outcome": "Pay $25"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "It is raining outside which makes it hard for you to drive. You pull over on the side of the road and decide to wait out the rain.",
         "Outcome": "Skip your next turn"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your vehicle malfunctions and needs routine maintenance.",
         "Outcome": "Skip your next turn"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your body is sore from doing too much physical activity yesterday, and you can't transfer.",
         "Outcome": "Go back 1 space"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "You forgot to bring your driver's license with you.",
         "Outcome": "Go back to the starting point (no refunds!)"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Your vehicle is being modified to be wheelchair accessible and is running far behind schedule.",
         "Outcome": "Go back 5 spaces"
     },
     {
-        "Category": "Cab",
+        "Category": "Car",
         "Description": "Due to the inclement weather, you cannot drive on the roads.",
         "Outcome": "Skip your next turn"
     },
